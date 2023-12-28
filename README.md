@@ -9,7 +9,7 @@ Acredito na mudança que a tecnologia proporciona na vida das pessoas, trazendo 
 
 ## Visualize Meu Currículo
 
-Você pode visualizar e baixar meu currículo em PDF diretamente [aqui](https://ester-arruda.github.io/curriculo/).
+Você pode visualizar e baixar meu currículo em PDF diretamente [aqui](https://ester-arruda.github.io/Curriculo/).
 
 ## Contato
 
