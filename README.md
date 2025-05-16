@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório de currículo. Aqui você encontrará meu currícu
 
 ## Sobre Mim
 
-Sou Desenvolvedora Web com mais de2 anos de experiência. Atuo como desenvolvedora web Full-Stack na Globo. 
+Sou Desenvolvedora Web com mais de 2 anos de experiência. Atuo como desenvolvedora Web Full-Stack na Globo. 
 Acredito na mudança que a tecnologia proporciona na vida das pessoas, trazendo benefícios e inclusão.
 
 ## Visualize Meu Currículo
