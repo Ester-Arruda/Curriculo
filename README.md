@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório de currículo. Aqui você encontrará meu currícu
 
 ## Sobre Mim
 
-Sou Desenvolvedora Web Front-end com 2 anos de experiência. Atuo como bolsista de desenvolvimento no TelessaúdeRS e estagio na Aceleradora Àgil. 
+Sou Desenvolvedora Web com mais de2 anos de experiência. Atuo como desenvolvedora web Full-Stack na Globo. 
 Acredito na mudança que a tecnologia proporciona na vida das pessoas, trazendo benefícios e inclusão.
 
 ## Visualize Meu Currículo
@@ -25,6 +25,7 @@ Você pode visualizar e baixar meu currículo em PDF diretamente [aqui](https://
 - Cypress, JavaScript, React.js, Node.js, JQuery
 - API RESTful, Strapi CMS
 - Python, Django, Jinja2
+- C#, .NET, Entity Framework Core
 - SQL, Java, SpringBoot
 - Scrum, Kanban
 - Git, Github, Jira, Miro
